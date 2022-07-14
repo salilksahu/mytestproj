@@ -1,5 +1,6 @@
 
 #sample code
+print('a')
 
 #write something
 
